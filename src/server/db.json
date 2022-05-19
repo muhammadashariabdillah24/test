@@ -1,0 +1,23 @@
+{
+  "products": [
+  {
+  "id": 1,
+  "title": "orson",
+  "description": "orson is good",
+  "stock": 100,
+  "price": 10000,
+  "qty": 0,
+  "image": "https://picsum.photos/200/200"
+  },
+  {
+  "id": 2,
+  "title": "indomie",
+  "description": "mantap",
+  "stock": 100,
+  "price": 25000,
+  "qty": 0,
+  "image": "https://picsum.photos/200/200"
+  }
+  ]
+  }
+  
